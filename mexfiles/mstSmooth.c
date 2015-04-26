@@ -1,8 +1,9 @@
 /*
 	mstSmooth.c
 
-	Copyright (C) 2012 Frederic Wilhelm <frederic.wilhelm at epfl.ch>
-	Adapted from Matlab code from Benjamin Hamner <benjamin.hamner at gmail.com>
+	Copyright (C) 2010-2015 
+	Andrea Biasiucci <andrea.biasiucci at epfl.ch>	
+	Frederic Wilhelm <frederic.wilhelm at epfl.ch>
 	Chair in Non-Invasive Brain-Machine Interface (http://cnbi.epfl.ch/)
 	EPFL Ecole Polytechnique Federale de Lausanne (http://www.epfl.ch)
 
